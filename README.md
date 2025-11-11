@@ -25,19 +25,16 @@ A real-time chat app built with **React (frontend)** and **Spring Boot (backend)
 
 ### **Backend**
 
-1. cd backend\n
-2. mvn spring-boot:run\n
-3. App runs on: http://localhost:8080\n
+1. cd backend
+2. mvn spring-boot:run
+3. App runs on: http://localhost:8080
 
 ### **Frontend**
 
-cd frontend
-
-npm install
-
-npm run dev
-
-App runs on: http://localhost:5173
+1. cd frontend
+2. npm install
+3. npm run dev
+4. App runs on: http://localhost:5173
 
 ---
 
