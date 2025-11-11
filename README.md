@@ -24,7 +24,7 @@ A real-time chat app built with **React (frontend)** and **Spring Boot (backend)
 ## ⚙️ **Setup**
 
 ### **Backend**
-```bash
+
 cd backend
 mvn spring-boot:run
 App runs on: http://localhost:8080
